@@ -43,6 +43,7 @@ $ ls
 animals
 
 Copy and paste the output below.
+No output
 ----------
 
 
